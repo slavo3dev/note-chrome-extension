@@ -1,2 +1,3 @@
 # note-chrome-extension
-Note Chrome Extension
+
+### Note Chrome Extension
